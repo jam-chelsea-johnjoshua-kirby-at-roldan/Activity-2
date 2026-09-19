@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Team Project - Home</title>
+</head>
+<body>
+<header>
+  <h1>Web Systems & Technology Team Project</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="schedule.html">Schedule</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+</header>    
+<main>
+  <h1>Welcome to Our Team Project</h1>
+  <h2>Project Goals and Overview</h2>
+  <p>Our team aims to build a multi-page website using HTML5 semantic elements and collaborative Git/GitHub workflow. This project demonstrates our skills in version control and web development.</p>
+  <p>Each member is assigned a specific page to develop in parallel using feature branches to avoid conflicts.</p>
+  <h2>Site Pages Overview</h2>
+  <ul>
+    <li>Home - Introduction and team overview</li>
+    <li>About Us - Team profiles and bios</li>
+    <li>Schedule - Academic and project timeline</li>
+    <li>Projects - Milestones and development steps</li>
+    <li>Contact Us - Feedback and inquiry form</li>
+  </ul>
+</main>
+<footer>
+  <p>&copy; 2026 Team Project. All Rights Reserved. | Authors: Leader, Member 1, Member 2, Member 3, Member 4</p>
+</footer>
+</body>
+</html>
